@@ -88,4 +88,4 @@ Contributing
 Contributions to enhance this repository are welcome! Fork this repository, make your changes, and submit a pull request.
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for more information.
